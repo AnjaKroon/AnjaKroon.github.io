@@ -2,91 +2,51 @@
 @import url('https://fonts.googleapis.com/css?family=Times');
 
 
-.grid-2{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-}
 
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Times', serif;;
+    font-family: 'Times', serif;
     background-color: #ffffff;
     color: #000000;
 
 }
 
-h2,.black{
-    color: #000;
-}
-
 a{
     color: #000000;
     text-decoration: none;
-}
-/* section 1 */
-.section-1{
-    padding-top: 40vh;
-    text-align: center;
+    font-family: 'Times', serif;
 }
 
-.section-1 p{
-    font-size: 1.1rem;
-    padding-bottom: 10px;
-    margin:0;
+p{
+    margin:5px;
+    color: #000000;
+    font-family: 'Times', serif;
+    text-align: justify;
 }
 
-.section-1 h2{
-    font-size: 1.7rem;
-    margin-bottom: 10px;
-}
+h1 {
+    align-self: center;
+    color: #007878;
+    font-family:Work Sans, Arial,monospace;
+    font-size: 1000%;
+  }
+  h2 {
+    color: #007878;
+    font-family:Work Sans, Arial,monospace;
+    font-size: 750%;
+  }
+  h3{
+    color: #000000;
+    font-family:Work Sans, Arial, sans-serif;
+    font-size: 225%;
+  }
 
-.section-1 a{
-    font-size: 1.5rem;
-    padding: 10px;
-}
-/* section 2 */
-.section-2{
-    padding-top: 10vh;
-    width: 70%;
-}
+  #zero {
+    position: absolute;
+  }
+  
 
-.section-2 h2{
-    font-size: 1.7rem;
-    margin-bottom: 10px;
-}
-
-.section-2 p{
-    font-size: 1.1rem;
-    padding-bottom: 10px;
-    margin:0;
-}
-
-.section-2 a{
-    display: block;
-    padding: 5px;
-    font-size: 1.2rem;
-    padding-left: 0;
-    width: 100px;
-}
-/* animations / utilities */
-.section-2 a:hover{
-    font-size: 1.3rem;
-    color: #000;
-    cursor: pointer;
-    transition: 0.2s;
-}
-
-.section-1 a:hover{
-    color: #000;
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-.black:hover{
-    position: relative;
-    padding-left: 10px;
-}
 
 /* media queres */
 @media(max-width:780px){
