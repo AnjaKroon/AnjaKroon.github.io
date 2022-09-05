@@ -1,20 +1,17 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Times');
 
-
-
 body{
     margin: 0;
     padding: 0;
     font-family: 'Times', serif;
-    background-color: #ffffff;
+    background-color: #e5f2fa;
     color: #000000;
 
 }
 
 a{
     color: #000000;
-    text-decoration: none;
     font-family: 'Times', serif;
 }
 
@@ -28,17 +25,17 @@ p{
 h1 {
     align-self: center;
     color: #000000;
-    font-family:Work Sans, Arial,monospace;
+    font-family: 'Times', serif;
     font-size: 200%;
   }
   h2 {
     color: #000000;
-    font-family:Work Sans, Arial,monospace;
+    font-family:'Times', serif;
     font-size: 200%;
   }
   h3{
     color: #000000;
-    font-family:Work Sans, Arial, sans-serif;
+    font-family:'Times', serif;
     font-size: 200%;
   }
 
