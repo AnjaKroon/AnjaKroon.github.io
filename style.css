@@ -17,27 +17,27 @@ a{
 }
 
 p{
-  margin: 25px 50px 75px 100px;
+  margin: 50px 50px 50px 50px;
   color: #000000;
   font-family: 'Times', serif;
   text-align: justify;
 }
 
 h1 {
-  margin: 25px 50px 75px 100px;
+  margin: 50px 50px 50px 50px;
   align-self: center;
   color: #000000;
   font-family: 'Times', serif;
   font-size: 200%;
   }
   h2 {
-    margin: 25px 50px 75px 100px;
+    margin: 50px 50px 50px 50px;
     color: #000000;
     font-family:'Times', serif;
     font-size: 200%;
   }
   h3{
-    margin: 25px 50px 75px 100px;
+    margin: 50px 50px 50px 50px;
     color: #000000;
     font-family:'Times', serif;
     font-size: 200%;
@@ -47,9 +47,7 @@ h1 {
     position: absolute;
   }
   
-  #zero {
-    position: absolute;
-  }
+
   
   
   .showlink{
