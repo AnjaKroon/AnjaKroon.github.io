@@ -47,7 +47,7 @@ h4{
 .showlink{
   text-decoration: underline;
   text-decoration-thickness: 3px;
-  -webkit-text-decoration-color:#1F51FF;
+  -webkit-text-decoration-color: #1F51FF;
   font-family: "PT Mono" , monospace;
 }
 
