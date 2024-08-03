@@ -9,12 +9,14 @@ a{
   color:#151515;
   text-decoration: none;
   font-family: "Work Sans", monospace;
+  font-size: 90%;
 }
 p {
   margin:5px;
   color: #151515;
   font-family: "Work Sans" , monospace;
   text-align: justify;
+  font-size: 90%;
 }
 h1 {
   align-self: center;
