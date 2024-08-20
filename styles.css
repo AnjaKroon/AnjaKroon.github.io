@@ -41,6 +41,13 @@ h4{
   font-size: 170%;
 
 }
+
+h5{
+  color: #151515;
+  font-family: "Work Sans", sans-serif;
+  font-size: 120%;
+
+}
 #zero {
   position: absolute;
 }
